@@ -50,7 +50,7 @@ This project reflects a systematic approach to filling knowledge gaps through se
 
 #### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/youtube-transcript-automation.git
+git clone https://github.com/idle5/youtube-transcript-automation.git
 cd youtube-transcript-automation
 ```
 
@@ -217,10 +217,9 @@ This tool is intended for personal educational use. Users are responsible for en
 
 ## 🤝 Contributing
 
-This is a personal learning project built as part of my CCNA certification preparation. Feel free to fork or use as reference for your own projects.
+This is a personal learning project built as part of CCNA certification preparation. Feel free to fork or use as reference for your own projects.
 ---
-
-**Author:** idle5
-
+**Author:** Andriy Karp  
+**Contact:** [LinkedIn](https://linkedin.com/in/andriykarp) | [GitHub](https://github.com/idle5)  
 **Context:** Built during career transition from fitness/personal training to IT infrastructure roles
 
