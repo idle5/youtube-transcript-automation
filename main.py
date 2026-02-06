@@ -1,7 +1,9 @@
-"""
+ """
 YouTube Playlist Transcript Automation Tool
 Purpose: Bulk transcript extraction for technical certification study workflow
 Developed during CCNA preparation to automate video content indexing
+Author: Andriy Karp
+
 """
 
 import os
