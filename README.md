@@ -220,6 +220,7 @@ This tool is intended for personal educational use. Users are responsible for en
 This is a personal learning project built as part of my CCNA certification preparation. Feel free to fork or use as reference for your own projects.
 ---
 
-**Author:** idle5 
+**Author:** idle5
+
 **Context:** Built during career transition from fitness/personal training to IT infrastructure roles
 
