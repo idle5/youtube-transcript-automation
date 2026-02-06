@@ -1,7 +1,7 @@
 """
 YouTube Playlist Transcript Automation Tool
-Author: John Karp
-Purpose: Bulk transcript extraction for CCNA certification study workflow
+Purpose: Bulk transcript extraction for technical certification study workflow
+Developed during CCNA preparation to automate video content indexing
 """
 
 import os
