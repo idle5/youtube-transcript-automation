@@ -217,12 +217,7 @@ This tool is intended for personal educational use. Users are responsible for en
 
 ## 🤝 Contributing
 
-This is a personal learning project, but suggestions and improvements are welcome! Feel free to open an issue or submit a pull request.
-
-## 📄 License
-
-MIT License - See LICENSE file for details
-
+This is a personal learning project built as part of my CCNA certification preparation. Feel free to fork or use as reference for your own projects.
 ---
 
 **Author:** idle5 
